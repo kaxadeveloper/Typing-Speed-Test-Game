@@ -1,0 +1,22 @@
+const paragraphs = [
+  "Martial arts is more than just physical combat; it’s a discipline that shapes the mind, body, and spirit through years of dedication and practice.",
+  "From ancient battlefields to modern dojos, martial arts has evolved as both a self-defense system and a path to self-discovery.",
+  "Every martial art emphasizes respect, humility, and perseverance, values that extend far beyond the training hall.",
+  "Karate, originating in Okinawa, focuses on powerful strikes, precise movements, and mental fortitude to overcome opponents.",
+  "Judo, founded in Japan, teaches practitioners to use an opponent’s energy against them through throws, locks, and leverage.",
+  "Taekwondo, known for its dynamic kicks, blends traditional Korean philosophy with modern Olympic sport techniques.",
+  "Kung Fu encompasses a wide range of Chinese martial arts styles, each with unique movements inspired by animals and nature.",
+  "Brazilian Jiu-Jitsu revolutionized modern martial arts by emphasizing ground fighting, technique, and submission holds over brute strength.",
+  "Muay Thai, the art of eight limbs, uses punches, kicks, elbows, and knees to deliver devastating and efficient strikes.",
+  "Krav Maga, developed for the Israeli Defense Forces, prioritizes real-world self-defense and survival over formality or competition.",
+  "Aikido emphasizes harmony and control, redirecting attacks with fluid motion rather than meeting force with force.",
+  "Martial arts training builds discipline, improving focus, patience, and emotional control in daily life.",
+  "The belt ranking system symbolizes progress, but true mastery in martial arts lies in continual learning and humility.",
+  "Many practitioners view martial arts as a form of meditation in motion, where the repetition of techniques leads to inner peace.",
+  "Sparring is a vital part of martial arts training, teaching timing, adaptability, and respect for one’s opponent.",
+  "Traditional weapons, such as the bo staff, nunchaku, and katana, are often studied to deepen understanding of balance and technique.",
+  "Instructors, known as sensei or sifu, guide students not only in combat skills but in developing strong moral character.",
+  "Martial arts films have popularized the art worldwide, inspiring generations through stories of honor, perseverance, and courage.",
+  "Children benefit greatly from martial arts, gaining confidence, discipline, and physical fitness through structured practice.",
+  "Ultimately, martial arts teaches that the greatest victory is not over others, but over one’s own fears, doubts, and limitations."
+];
